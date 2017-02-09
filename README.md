@@ -1,6 +1,6 @@
 # Iago Dahlem Lorensini
 
-> Software Developer
+> Front-end Developer
 
 **Localização:** Novo Hamburgo, RS
 **Telefone:** (51) 99911.4224
