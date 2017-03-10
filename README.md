@@ -2,11 +2,11 @@
 
 > Front-end Developer
 
-**Localização:** Novo Hamburgo, RS
-**Telefone:** (51) 99911.4224
-**Site:** [iagodahlem.com](http://iagodahlem.com)
-**E-mail:** iagodahlemlorensini@gmail.com
-**Github:** iagodahlem
+  **Localização:** Novo Hamburgo, RS  
+  **Telefone:** (51) 99911.4224  
+  **Site:** [iagodahlem.com](http://iagodahlem.com)  
+  **E-mail:** iagodahlemlorensini@gmail.com  
+  **Github:** iagodahlem  
 
 ## Sobre Mim
 
