@@ -1,53 +1,52 @@
 # Iago Dahlem Lorensini
 
-> Front-end Developer
+> Software Developer with focus in Front-end Development
 
-  **Localização:** Novo Hamburgo, RS  
-  **Telefone:** (51) 99911.4224  
-  **Site:** [iagodahlem.com](http://iagodahlem.com)  
-  **E-mail:** iagodahlemlorensini@gmail.com  
-  **Github:** iagodahlem  
+**Location:** Novo Hamburgo, RS, Brazil
+**Phone:** +55 (51) 99989.0896
+**Site:** [iagodahlem.com](http://iagodahlem.com)
+**E-mail:** iagodahlemlorensini@gmail.com
+**Github:** [iagodahlem](https://github.com/iagodahlem)
 
-## Sobre Mim
+## About me
 
-Apaixonado por Web, 21 anos, adepto a open-source, extremamente perfeccionista, apegado a pequenos detalhes, e faminto por conhecimento. Tem muita facilidade para aprender e absorver informações. Fascinado por tecnologia e computação, encantado pelo mundo da programação desde 2014 devido a muita curiosidade e inspiração por professores e grandes nomes da comunidade brasileira. Adora trabalhar com projetos desafiadores e criativos. Procura constantemente evoluir, aprender e praticar tecnologias e linguagens novas, para solucionar problemas da melhor forma possível.
+Web passionate, 22 years old, open-source enthusiastic, extremely meticulous, attached to small details, and hungry for knowledge. Learn and absorb information very easily. Fascinated by technology and computing, enchanted by the world of programming since 2014 due to curiosity and inspiration for teachers and big names of the Brazilian community. Loves to work with challenging and creative projects. Seeks to constantly evolve, learn and practice technologies and new languages, to solve problems in the best possible way.
 
-## Habilidades
+## Skills
 
 - HTML, CSS
 - Responsive Design (Mobile First)
 - Sass, Less, Stylus, PostCSS
 - BEM CSS, OOCSS, RSCSS, ITCSS
-- JavaScript (Design Patterns, Tests, ES6/ES7, Modules)
-- Webpack, Gulp, Grunt, Npm, Yarn, Bower
-- Jquery
-- Angular
-- React, Redux
-- Node
+- JavaScript (ES6/ES7)
+- Bundlers / Task Runners (Webpack, Gulp, Grunt, Npm, Yarn, Bower)
+- Frameworks / Libriries (Angular, React, Redux, Jquery)
+- Node (Express)
+- Ruby (Ruby on Rails)
 - PHP (Laravel)
 - Java (Java8, Spring MVC, Maven)
 - C# (Asp.NET MVC)
 - MySQL, Oracle, SQL Server, Redis
 - TDD, BDD
-- DevOps, Continuous Integration, Continuos Delivery
+- DevOps (Continuous Integration, Continuos Delivery)
 - Agile (Scrum)
 - Git
 - Unix Based Systems (Command Line)
 
-## Experiência
+## Experience
 
-**Software Developer** - CWI Software - Fevereiro 2016 / Atualmente
+**Software Developer** - CWI Software - February 2016 / Currently
 
-> Desenvolvimento de Aplicações Web dentro do contexto de Fábrica de Software. Trabalhando com: Java, Oracle, REST API, JavaScript (ES6), Node, Npm, Angular, Webpack, Sass, Git, Docker.
+> Web development within the context of the Software Factory. Working with: Java, Oracle, REST API, JavaScript (ES6), Node, Npm, Angular, Webpack, Sass, Git, Docker.
 
-## Formação
+## Education
 
-**Bacharel em Ciência da Computação - Ulbra** - Agosto 2015 / Atualmente
+**Computer Science at Ulbra** - August 2015 / Currently
 
-**Técnico em Informática - Informatize** - Março 2013 / Junho 2015
+**Information Technology Technician at Informatize** - March 2013 / June 2015
 
-## Cursos
+## Courses
 
-**Projeto CRESCER CWI Software** - Setembro 2015 / Dezembro 2015
+**Project CRESCER CWI Software** - September 2015 / December 2015
 
-> Programa de formação e captação, seguido de 5 módulos: Orientação a Objetos, Banco de Dados, Web (HTML, CSS, JavaScript), C# (Core Language, Aps.NET MVC), Java (Core Language, Spring MVC)
+> Training programme and funding, followed by 5 modules: Object Oriented, Databases, Web (HTML, CSS, JavaScript), C# (Core Language, Aps.NET MVC), Java (Core Language, Spring MVC)
